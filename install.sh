@@ -986,7 +986,7 @@ menu() {
     echo -e "${Green}4.${Font}  Thay đổi  UUID"
     echo -e "${Green}5.${Font}  Thay đổi alterid"
     echo -e "${Green}6.${Font}  Thay đổi port"
-    echo -e "${Green}7.${Font}  Thay đổi TLS 版本(仅ws+tls有效)"
+    echo -e "${Green}7.${Font}  Thay đổi Phiên bản TLS(chỉ ws + tls hợp lệ)"
     echo -e "—————————————— Xem thông tin chi tiết ——————————————"
     echo -e "${Green}8.${Font}  Nhật ký truy cập thời gian thực "
     echo -e "${Green}9.${Font}  Nhật ký lỗi thời gian thực "
